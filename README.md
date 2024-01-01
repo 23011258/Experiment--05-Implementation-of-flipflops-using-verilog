@@ -139,7 +139,7 @@ q=(T&~q)|(~T&q);
 qbar=~q;
 end
 endmodule
-RTL LOGIC FOR FLIPFLOPS
+### RTL LOGIC FOR FLIPFLOPS
 ## SR Flip-Flop:
 ![image](https://github.com/23011258/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842204/ee810a8b-144a-45e0-bc35-e8f6a0826de4)
 
@@ -153,11 +153,25 @@ RTL LOGIC FOR FLIPFLOPS
 
 
 ## T Flip-Flop:
+![image](https://github.com/23011258/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842204/89788ae3-c800-45f5-b3ce-34fa50b31b23)
+### Truth table for flipflops:
+## SR FLIPFLOP:
+![image](https://github.com/23011258/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842204/b54e70d6-98c9-4797-9ebe-230309a28432)
+## D FLIPFLOP:
+![image](https://github.com/23011258/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842204/1c0859d7-966f-4593-a18d-37e1c3eabf7b)
+## JK FLIPFLOP:
+![image](https://github.com/23011258/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842204/407d6a4c-1258-496b-8ed2-c00fe0a8781c)
+## T FLIPFLOP:
+![image](https://github.com/23011258/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842204/3d96e432-ab8c-4380-a2b6-b522bfb198ad)
+
+
+
+
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS
 ## SR Flip-Flop:
-![image](https://github.com/23011258/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842204/89788ae3-c800-45f5-b3ce-34fa50b31b23)
+![image](https://github.com/23011258/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842204/432ab190-6d87-4237-acc4-68ee1dbdfcee)
 
 
 ## JK Flip-Flop:
